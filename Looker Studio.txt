@@ -1,0 +1,20 @@
+Looker Studio
+
+1. Set Up and Retrieve Data Using SQL
+
+Objective: Use SQL to extract the data needed for the dashboard.
+Step 1: Understand the Data Requirements
+Step 2: Write SQL Queries to Retrieve Data
+
+2. Import Data into Looker Studio
+Objective: Use Looker Studio to create visualizations and dashboards from the data.
+
+Step 1: Connect Looker Studio to Data
+Step 2: Set Up Data Fields in Looker Studio
+Step 3: Create the Dashboard Visualizations
+Step 4: Customize the Dashboard
+
+3. Publish and Share the Dashboard
+Objective: Share the final dashboard with stakeholders and ensure it is accessible.
+
+
